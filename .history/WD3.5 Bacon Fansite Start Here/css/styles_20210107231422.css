@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    animation: 3s linear 1s infinite alternate slidein;
+    text-align: center;
+    color:brown;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: blue;
+}
+
+img {
+  background-color: brown;
+}
