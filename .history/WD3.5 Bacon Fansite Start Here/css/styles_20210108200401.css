@@ -3,7 +3,7 @@ body {
     background-color: white;
 }
 
-img:hover {
+img :hover {
     background-color: gold;
 }
 

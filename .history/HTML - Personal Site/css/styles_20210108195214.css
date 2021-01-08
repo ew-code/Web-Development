@@ -1,9 +1,5 @@
-body {
+  body {
       background-color: white;
-  }
-
-img:hover {
-      background-color: gold;
   }
 
 h1 {
@@ -21,6 +17,6 @@ h3 {
       width: 10%;
   }
 
-.circular {
-    border-radius: 100%;
+.circularv{
+
 }

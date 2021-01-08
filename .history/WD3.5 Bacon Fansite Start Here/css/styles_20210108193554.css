@@ -3,10 +3,6 @@ body {
     background-color: white;
 }
 
-img:hover {
-    background-color: gold;
-}
-
 h1 {
     color:red;
      font-size: 30px;
@@ -26,16 +22,9 @@ p {
     background-color: green;
 }
 
-.broccoli {
+.broccoli{
     background-color: red;
-}
-
-.circular {
-    border-radius: 100%;
 }
 
 /*******************************ID SELECTORS**********************/
 
-#heading {
-    color:blue;
-}

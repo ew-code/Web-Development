@@ -1,10 +1,7 @@
-body {
+  body {
       background-color: white;
   }
-
-img:hover {
-      background-color: gold;
-  }
+  img: hover {}
 
 h1 {
     color: #26B1C3;
@@ -24,3 +21,5 @@ h3 {
 .circular {
     border-radius: 100%;
 }
+
+img: hover {}

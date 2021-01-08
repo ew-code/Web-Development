@@ -1,9 +1,5 @@
-body {
-      background-color: white;
-  }
-
-img:hover {
-      background-color: gold;
+  body {
+      background-color: rgba(70, 69, 69, 0.377);
   }
 
 h1 {
