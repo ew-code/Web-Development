@@ -1,3 +1,28 @@
-body {
-    background-color: aquamarine;
+* {
+    /* font-family: 'Roboto', sans-serif; */
+    /* box-sizing: border-box; */
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.4em;
+    vertical-align: baseline;
+    text-decoration: none;
+    outline: 0;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+}
+
+.middle-container {
+ height: 200px;
+ width: 200px;
+ background-color: blueviolet;
+}
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(80, 226, 43);
 }
