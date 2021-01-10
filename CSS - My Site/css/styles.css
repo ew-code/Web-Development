@@ -30,15 +30,9 @@ h2 {
 }
 
 .middle-container {
-    height: 200px;
-    width: 200px;
-    background-color: rgb(226, 43, 128);
 }
 
 .bottom-container {
-    height: 200px;
-    width: 200px;
-    background-color: rgb(43, 70, 226);
 }
 
 .top-cloud {
