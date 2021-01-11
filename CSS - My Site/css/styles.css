@@ -85,7 +85,7 @@ hr {
     background-color: #66BFBF;
 }
 
-.BUTTON_FIC {
+.btn {
     background: #4BCCD1;
     background-image: -webkit-linear-gradient(top, #4BCCD1, #11999E);
     background-image: -moz-linear-gradient(top, #4BCCD1, #11999E);
@@ -109,7 +109,7 @@ hr {
     text-align: center;
 }
 
-.BUTTON_FIC:hover {
+.btn:hover {
     background: #00C7FF;
     border: solid #FFFFFF 0;
     -webkit-border-radius: 20px;
