@@ -83,6 +83,7 @@ hr {
 
 .bottom-container {
     background-color: #66BFBF;
+    margin: 20px;
 }
 
 .btn {
@@ -98,11 +99,11 @@ hr {
     height: 4px;
     line-height: 4px;
     color: #FFFFFF;
-    font-family: Open Sans;
+    font-family: Montserrat;
     width: 193px;
-    font-size: 30px;
+    font-size: 1.5rem;
     font-weight: 100;
-    padding: 27px;
+    padding: 20px;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
