@@ -32,6 +32,10 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
+hr {
+    background-color: #EAF6F6;
+}
+
 .top-container {
     background-color: #e4f9f5;
     position: relative;
@@ -39,9 +43,6 @@ h3 {
 }
 
 .middle-container {
-}
-
-.bottom-container {
 }
 
 .top-cloud {
@@ -78,4 +79,8 @@ h3 {
 
 .logo {
     width: 10%;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
 }
