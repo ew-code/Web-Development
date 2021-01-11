@@ -1,13 +1,11 @@
 * {
     /* box-sizing: border-box; */
     border: 0;
-    margin: 0;
+    /* margin: 0; */
     padding: 0;
     border: 0;
-    line-height: 1.4em;
-    vertical-align: baseline;
-    text-decoration: none;
-    outline: 0;
+    /* text-decoration: none; */
+    /* outline: 0; */
 }
 
 body {
@@ -30,7 +28,7 @@ h2 {
 }
 
 h3 {
-    columns: #11999e;
+    color: #11999e;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -56,4 +54,28 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.programming-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.checklist-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.logo {
+    width: 10%;
 }
