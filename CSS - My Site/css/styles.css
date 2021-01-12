@@ -33,7 +33,7 @@ h3 {
 
 hr {
     display: inline-block;
-     margin: 70px;
+     margin: 30px;
      border-style: none;
      border-top-style: dotted;
      color: #ced6d6;
@@ -54,6 +54,8 @@ hr {
 }
 
 .middle-container {
+    margin: 10px;
+    line-height: 2;
 }
 
 .top-cloud {
@@ -70,7 +72,7 @@ hr {
 
 .skill-row {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
     text-align: left;
     line-height: 2;
 }
@@ -128,7 +130,7 @@ hr {
 .bottom-container {
     background-color: #66BFBF;
     margin: 0;
-    color: white;
+    color:#EAF6F6;
     font-family: 'Merriweather', serif;
     font-size: 14px;
 }
