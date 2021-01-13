@@ -148,20 +148,22 @@ p {
     padding: 50px 0 20px;
     color: #EAF6F6;
     font-family: 'Merriweather', serif;
-    font-size: 14px;
 }
 
 .footer-link {
     color: #11999e;
     font-family: 'Montserrat',sans-serif;
-    /* display: inline-block; */
     margin: 10px 20px;
-    padding: 15px;
     font-size: 18px;
-    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
 
 .footer-link:hover {
     color: #EAF6F6;
+}
+
+.copyright {
+     color: #EAF6F6;
+     font-size: 0.75rem;
+     padding: 20px 0;
 }
