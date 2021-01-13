@@ -35,8 +35,7 @@ h3 {
 }
 
 hr {
-    display: inline-block;
-    margin: 30px;
+    margin: 100px auto;
     border-style: none;
     border-top-style: dotted;
     color: #ced6d6;
@@ -105,9 +104,9 @@ p {
     margin-left: 30px;
 }
 
-.contact-me {
-    line-height: 3;
-    font-weight: bold;
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
 }
 
 .btn {
