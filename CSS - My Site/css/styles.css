@@ -134,7 +134,8 @@ p {
 }
 
 .btn:hover {
-    background: #00C7FF;
+    /* background: #00C7FF; */
+    background: #2bc4ad;
     border: solid #FFFFFF 0;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
