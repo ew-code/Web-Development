@@ -26,6 +26,17 @@ body {
     color: white;
 }
 
+#features {
+    font-family: "Montserrat" ;
+}
+
+
+.fas {
+    color: #ff4c68;
+    font-size: 4rem;
+    position: relative;
+}
+
 .title-image {
     width: 60%;
     transform: rotate(25deg);
