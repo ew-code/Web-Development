@@ -46,10 +46,14 @@ p {
 }
 
 .fas {
-    color: #ff4c68;
+    color: #ef8172;
     font-size: 4rem;
     position: relative;
     margin-bottom: 1rem;
+}
+
+.fas:hover {
+   color:#ff4c68 
 }
 
 .title-image {
