@@ -2,13 +2,18 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+h2  {
+    font-family: "Montserrat";
+    font-size: 3rem;
+}
+
 h3 {
     font-family: "Montserrat";
 }
 
 p {
     color: #8f8f8f;
-    font-family: Montserrat;
+    font-family: "Montserrat";
 }
 
 .navbar {
@@ -44,6 +49,7 @@ p {
     padding: 7% 15%;
     text-align: center;
     background-color:#ef8172;
+    color:#fff
 }
 
 .feature-box {
