@@ -55,6 +55,10 @@ p {
     color:#fff;
 }
 
+#press {
+    background-color:#ef8172;
+}
+
 .testimonials-image {
     width: 10%;
     border-radius: 100%;
