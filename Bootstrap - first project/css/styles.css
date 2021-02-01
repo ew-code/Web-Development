@@ -55,9 +55,10 @@ p {
     color:#fff;
 }
 
-#testimonials-image {
+.testimonials-image {
     width: 10%;
     border-radius: 100%;
+    margin: 20px;
 }
 
 .feature-box {
