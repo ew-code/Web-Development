@@ -3,9 +3,10 @@ body {
 }
 
 h2  {
-    font-family: "Montserrat-Bold";
+    font-family: "Montserrat";
     font-size: 3rem;
-    line-height: 1.5 ;
+    line-height: 1.5;
+    font-weight: 700;
 }
 
 h3 {
@@ -43,6 +44,7 @@ p {
 
 #features {
     font-family: "Montserrat";
+    font-weight: bold;
     padding: 7% 15%;
 }
 
@@ -50,7 +52,12 @@ p {
     padding: 7% 15%;
     text-align: center;
     background-color:#ef8172;
-    color:#fff
+    color:#fff;
+}
+
+#testimonials-image {
+    width: 10%;
+    border-radius: 100%;
 }
 
 .feature-box {
